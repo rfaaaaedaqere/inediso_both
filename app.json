@@ -1,5 +1,5 @@
 {
-  "name": "vmes xray",
+  "name": "vmess_xray",
   "description": "将 xray部署在Heroku上",
   "keywords": [
     "VMess VLESS"
